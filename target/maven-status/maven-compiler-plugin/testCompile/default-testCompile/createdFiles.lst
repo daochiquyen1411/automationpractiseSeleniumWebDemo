@@ -1,0 +1,6 @@
+com\example\miniproject\saucedemo\pages\LoginPage.class
+com\example\miniproject\saucedemo\pages\HomePage.class
+com\example\miniproject\automationpractise\pages\HomePage.class
+com\example\miniproject\saucedemo\pages\SauceDemoBasePage.class
+com\example\miniproject\saucedemo\test\CheckoutPageTest.class
+com\example\miniproject\saucedemo\test\SauceDemoTestBase.class
